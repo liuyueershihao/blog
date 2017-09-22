@@ -16,3 +16,4 @@
 ### 算法与结构
 
 #### [1. 二分法查找](https://github.com/liuyueershihao/blog/issues/5)
+#### [2. 快速排序](https://github.com/liuyueershihao/blog/issues/6)
