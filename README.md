@@ -17,3 +17,4 @@
 
 #### [1. 二分法查找](https://github.com/liuyueershihao/blog/issues/5)
 #### [2. 快速排序](https://github.com/liuyueershihao/blog/issues/6)
+#### [3.插值排序和二分法插值排序](https://github.com/liuyueershihao/blog/issues/7)
