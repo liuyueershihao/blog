@@ -8,10 +8,7 @@
 ### javascript
 
 #### [1. 前端图片预览](https://github.com/liuyueershihao/blog/issues/3)
-
-### webSocket
-
-#### [1.socket.io 入门](https://github.com/liuyueershihao/blog/issues/4)
+#### [2. 一次webpack体验](https://github.com/liuyueershihao/blog/issues/8)
 
 ### 算法与结构
 
